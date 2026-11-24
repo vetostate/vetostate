@@ -11,10 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-FiveM-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Base%20Game-GTA%20V-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Project-Development-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Genre-Military%20%26%20Modern%20RP-red?style=for-the-badge" />
+  <img src="https://r2.fivemanage.com/wNBDzg5C9xgJO3vG6d3fk/veto-state-original-1.png" width="300" />
 </p>
 
 <p align="center">
