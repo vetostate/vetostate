@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-FiveM-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Base Game-GTA%20V-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Base%20Game-GTA%20V-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Project-Development-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Genre-Military%20%26%20Modern%20RP-red?style=for-the-badge" />
 </p>
